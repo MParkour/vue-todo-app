@@ -1,0 +1,15 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+@import '../node_modules/bootstrap-vue/dist/bootstrap-vue.css';
+@import '../node_modules/font-awesome/css/font-awesome.css';
+
+button {
+    box-shadow: none !important;
+}
+
+.fs-14 {
+    font-size: 14px !important;
+}
+
+.fw-400 {
+    font-weight: 400 !important;
+}
